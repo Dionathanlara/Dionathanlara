@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Dionathanlara/Dionathanlara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Dionathan Lara, sou um programador front end, atualmente estou aprendendo e fazendo projetos com: 
 
-Here are some ideas to get you started:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+Connect with me:
+<br>
+<br>
+<p>
+<a href="https://www.linkedin.com/in/dionathan-lara/?trk=opento_sprofile_details">
+  <img width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />          
+  <a href="https://www.instagram.com/dionathanlara/">
+    <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    <a/>
+  <p>
+
+  <br>
+  
+  [![Dionathan GitHub stats](https://github-readme-stats.vercel.app/api?username=dionathanlara)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionathanlara)](https://github.com/anuraghazra/github-readme-stats)
